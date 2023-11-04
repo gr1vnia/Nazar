@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background: white;
+}
+header{
+background-color: white;
+height: 65px;
+}
+h1{
+text-align: center;
+color: black;
+}
+nav{
+ display: flex;
+ justify-content: space-between; 
+ background-color: #7A47BD;
+ border-radius: 10px;
+ padding: 5px;
+ margin: 10px;
+}
+a{
+text-decoration: none;
+font-size: 20px;
+}
+
+main{
+ background-color: white;
+}
+footer{
+  background-color: white;
+  text-align: right;
+}
